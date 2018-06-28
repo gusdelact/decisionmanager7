@@ -1,7 +1,7 @@
 # decisionmanager7
 Instrucciones:
 
-oc new project decisionmanager7
+oc new-project decisionmanager7
 #image stream 
 oc create -f rhdm70-image-streams.yaml 
 #templates
