@@ -1,7 +1,6 @@
 # decisionmanager7
-Instrucciones:
 
-oc new-project decisionmanager7
+oc new-project rhdm7-loan
 #image stream 
 oc create -f rhdm70-image-streams.yaml 
 #templates
